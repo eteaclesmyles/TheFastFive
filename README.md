@@ -1,4 +1,4 @@
-# VacationBuilder1.2
+# VacationBuilder1.3
 
 Latest build created by Elijah N. Lozano, Maria Jose Healey, Craig Parker, Paul Woody, and Desiree Garcia.
 ------------------------------------------------------------------------
